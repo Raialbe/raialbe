@@ -8,4 +8,4 @@ I previously worked on **computer vision** and electromagnetic optimization and 
 
 I'm currently living in Milan and working remotely at [Helixa.ai](helixa.ai) .
 
-You can contact me on my [website](raialbe@github.io)!
+You can contact me on my [website](raialbe.github.io)!
