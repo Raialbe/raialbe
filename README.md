@@ -1,5 +1,5 @@
 ## Nice to meet you! 
-Hi 👋, I'm **Alberto** and I'm a **software engineer**🖥️ specializing in **deep learning** 🧠 and **machine learning**.
+Hi 👋, I'm **Alberto** and I'm a **software engineer** 🖥️ specializing in **deep learning** 🧠 and **machine learning**.
 I'm currently working on **autonomous checkout systems** 🛒 at [Standard.ai](http://standard.ai).
 I previously worked on **computer vision**👁️, **electromagnetic signal optimization** 📡 and **social media analytics**🤳.
 
